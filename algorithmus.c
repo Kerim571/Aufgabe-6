@@ -3,6 +3,7 @@
 
 int main(void){
 
+<<<<<<< HEAD
 	int n[SIZE] = {1,2,3,4,5,12,7,8,9,10};
         size_t i;
         int j;
@@ -17,4 +18,3 @@ int main(void){
 		}
 
 	}
-}
